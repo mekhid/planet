@@ -1,3 +1,4 @@
-My name is Mekhi
+My name is Mekhi Dhesi
 I am a PhD student in Astrophysics
 I am 25 years old
+I need to learn how to use Git
